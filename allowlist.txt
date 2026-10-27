@@ -1,6 +1,11 @@
 # allowed to use the mod (one IGN per line)
 boomnodash
 Dizzy1624
+raarza
+yksaintt
+bogate38
+notclownanymore2
+stormified
 
 [hidden]
 # never shown to anyone using the mod

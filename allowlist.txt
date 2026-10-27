@@ -10,6 +10,7 @@ notclownanymore2
 stormified
 albert_jirk
 UncIeAndy
+R4fu
 
 [hidden]
 # never shown to anyone using the mod

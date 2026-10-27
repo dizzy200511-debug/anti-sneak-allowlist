@@ -1,0 +1,7 @@
+# allowed to use the mod (one IGN per line)
+boomnodash
+Dizzy1624
+
+[hidden]
+# never shown to anyone using the mod
+Dizzy1624

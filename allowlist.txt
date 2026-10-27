@@ -12,6 +12,7 @@ Stormifiedd
 albert_jirk
 UncIeAndy
 R4fu
+yksoda
 
 [hidden]
 # never shown to anyone using the mod

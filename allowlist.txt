@@ -6,6 +6,7 @@ yksaintt
 bogate38
 notclownanymore2
 stormified
+albert_jirk
 
 [hidden]
 # never shown to anyone using the mod

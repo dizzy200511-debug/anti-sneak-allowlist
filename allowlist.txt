@@ -1,18 +1,7 @@
 # allowed to use the mod (one IGN per line)
 boomnodash
 Dizzy1624
-raarza
-Batmanmagik
-Vilagerkidnappe
-yksaintt
-bogate38
-Aurunavo
-notclownanymore2
-Stormifiedd
-albert_jirk
-UncIeAndy
-R4fu
-yksoda
+
 
 [hidden]
 # never shown to anyone using the mod
